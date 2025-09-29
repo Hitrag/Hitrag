@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hitrag
 - 👀 I’m interested in Coding games and apps.
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning cpp
 - ⚡ Fun fact: I´m abble to solve a Rubiks Cube and I´m a Star Wars Nerd.
 - May The Force Be With You.
 
